@@ -1,5 +1,5 @@
 #include <iostream.h>
 
 int main (){
-    std::cout<<"I am batman";
+  std::cout<<1+3<<std::endl;
 }
